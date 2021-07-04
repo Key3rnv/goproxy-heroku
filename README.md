@@ -7,7 +7,7 @@
 
 一、在heroku上的部署
 
-1、登陆heroku https://Key3rnv.heroku.com/login
+1、登陆heroku https://Key.heroku.com/login
 
 2、登陆好后，点击
 
